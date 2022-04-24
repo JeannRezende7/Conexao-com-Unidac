@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/24 11:08:54.000.105,=C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/24 11:29:48.000.351,=C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/24 11:32:47.000.630,=C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/24 11:44:29.000.669,C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\MINHA VIDA\ProjetosDelphi\Unidac\Unidac_Test.dfm</Transaction>
+    <Transaction>2022/04/24 11:44:29.000.669,C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\MINHA VIDA\ProjetosDelphi\Unidac\Unidac_Test.pas</Transaction>
+    <Transaction>2022/04/24 11:44:34.000.687,C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\MINHA VIDA\ProjetosDelphi\Unidac\Unidac.dproj</Transaction>
+    <Transaction>2022/04/24 12:27:44.352,D:\MINHA VIDA\ProjetosDelphi\Unidac\Principal.dfm=D:\MINHA VIDA\ProjetosDelphi\Unidac\Unidac_Test.dfm</Transaction>
+    <Transaction>2022/04/24 12:27:44.352,D:\MINHA VIDA\ProjetosDelphi\Unidac\Principal.pas=D:\MINHA VIDA\ProjetosDelphi\Unidac\Unidac_Test.pas</Transaction>
+  </Transactions>
+</BorlandProject>
